@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <SiteHeader/>
-  </div>
+  <NuxtLayout>
+    <SiteThumbnail />
+    <SiteThumbnail />
+    <SiteThumbnail />
+  </NuxtLayout>
 </template>
