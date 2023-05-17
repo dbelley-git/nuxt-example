@@ -1,7 +1,11 @@
+<script lang="ts">
+
+</script>
+
 <template>
-  <NuxtLayout>
-    <SiteThumbnail />
-    <SiteThumbnail />
-    <SiteThumbnail />
-  </NuxtLayout>
+  <NuxtLayout name="thumbnails">
+  <SiteThumbnail />
+  <SiteThumbnail />
+  <SiteThumbnail />
+</NuxtLayout>
 </template>
