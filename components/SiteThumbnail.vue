@@ -1,7 +1,7 @@
 <template>
     <div class="col">
         <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" src="~/assets/images/pexels-sabrina-gelbart-249798.jpg"
+            <img class="bd-placeholder-img card-img-top" src="~/assets/images/Minou.jpg"
                 alt="image" />
 
             <div class="card-body">
@@ -12,7 +12,6 @@
                         <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                         <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
                 </div>
             </div>
         </div>
