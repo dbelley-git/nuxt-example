@@ -4,8 +4,6 @@
 
 <template>
   <NuxtLayout name="thumbnails">
-  <SiteThumbnail />
-  <SiteThumbnail />
-  <SiteThumbnail />
-</NuxtLayout>
+    <SiteThumbnail/>
+  </NuxtLayout>
 </template>

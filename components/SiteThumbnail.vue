@@ -1,19 +1,12 @@
 <template>
-    <div class="col">
-        <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" src="~/assets/images/Minou.jpg"
-                alt="image" />
+  <div class="col">
+    <div class="card card-cover h-100 overflow-hidden  rounded-4 shadow-lg"
+      style="background-image: url('/images/Minou.jpg');">
+      
+      <p>Some text</p>
+      <p>Other text</p>
+      <p>More text</p>
 
-            <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                    additional content. This content is a little bit longer.</p>
-                <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
+  </div>
 </template>
